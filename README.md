@@ -2,7 +2,8 @@
 Repositório para estudos - (IA) Inteligência Artificial.
 Reunião de diversos conteúdos para o estudo da (IA) em português do Brasil.
 Todos material está disponível nos seguintes termos:
-Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0) 
+
+Atribuição-CompartilhaIgual 4.0 Internacional (CC BY-SA 4.0). 
 
 Você tem o direito de:
 
